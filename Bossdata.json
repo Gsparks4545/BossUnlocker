@@ -13,7 +13,7 @@
 				"difficulty": 0,
 				"bosstag": "Uberspider",
 				"additionalengrams": [],
-				"itemiconurl": "https://github.com/Gsparks4545/BossUnlocker/blob/main/potion__107_.PNG",
+				"itemiconurl": "https://raw.githubusercontent.com/Gsparks4545/BossUnlocker/6e8f0ecea5237a116d90a3ca1e7055e74c5361c9/potion__107_.PNG",
 				"storedicon": "None",
 				"itemname": "NSLOCTEXT(\"[3FE17CE4FB49A89521B0220F5F795D6C]\", \"8C6EBBC54102C4D4B1917DAF7B037E7D\", \"Elixir of the Broodmother\\'s Tears\")",
 				"itemdescription": "NSLOCTEXT(\"[3FE17CE4FB49A89521B0220F5F795D6C]\", \"12E5182C4A2C83997B8D9E99D6C764BB\", \"A vial of shimmering green fluid said to be distilled from the sorrow of the ancient matriarch herself. Its touch burns with venomous energy, awakening the web of power that binds the Ark’s primal core. Drink it to summon the Broodmother and ascend through her trial.\")",
@@ -37,7 +37,7 @@
 				"difficulty": 1,
 				"bosstag": "Uberspider",
 				"additionalengrams": [],
-				"itemiconurl": "https://github.com/Gsparks4545/BossUnlocker/blob/main/potion__108_.PNG",
+				"itemiconurl": "https://raw.githubusercontent.com/Gsparks4545/BossUnlocker/6e8f0ecea5237a116d90a3ca1e7055e74c5361c9/potion__108_.PNG",
 				"storedicon": "None",
 				"itemname": "NSLOCTEXT(\"[3FE17CE4FB49A89521B0220F5F795D6C]\", \"1C274336497D41B95E860B8FEBDB037E\", \"Elixir of the Broodmother\\'s Web Fluid\")",
 				"itemdescription": "NSLOCTEXT(\"[3FE17CE4FB49A89521B0220F5F795D6C]\", \"35B58CE846079AB53405A68E57376428\", \"A viscous, silk-white potion that clings to the glass like living strands. Forged from the Broodmother’s own secretions and infused with primal essence, it hums with the pulse of the hive. Those who drink it become momentarily attuned to her web, unlocking the path to her lair and the challenge of ascension.\")",
@@ -61,7 +61,7 @@
 				"difficulty": 2,
 				"bosstag": "Uberspider",
 				"additionalengrams": [],
-				"itemiconurl": "https://github.com/Gsparks4545/BossUnlocker/blob/main/potion__114_.PNG",
+				"itemiconurl": "https://raw.githubusercontent.com/Gsparks4545/BossUnlocker/6e8f0ecea5237a116d90a3ca1e7055e74c5361c9/potion__108_.PNG",
 				"storedicon": "None",
 				"itemname": "NSLOCTEXT(\"[3FE17CE4FB49A89521B0220F5F795D6C]\", \"8BDBA52849B32E920614F5B91AF5E258\", \"Elixir of the Broodmother\\'s Acidic Blood\")",
 				"itemdescription": "NSLOCTEXT(\"[3FE17CE4FB49A89521B0220F5F795D6C]\", \"A9163652473DDEDEF852D6801C02B3CD\", \"A seething emerald liquid that eats through lesser glass and must be contained in reinforced crystal. Its fumes sting the air with venomous potency. Said to contain the lifeblood of the ancient matriarch, this elixir burns away mortal limits, unlocking the gateway to her domain and the trial of ascension.\")",
@@ -78,3 +78,4 @@
 	}
 
 }
+
