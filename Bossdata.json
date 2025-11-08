@@ -8,7 +8,7 @@
 				"killcreature": false,
 				"tamecreature": false,
 				"spawncreaturenearby": false,
-				"creatureclass": "/Game/PrimalEarth/Dinos/Spider-Large/SpiderL_Character_BP_Easy.SpiderL_Character_BP_Easy",
+				"creatureclass": "/Game/PrimalEarth/Dinos/Spider-Large/SpiderL_Character_BP_Easy.SpiderL_Character_BP_Easy_C",
 				"giveloot": false,
 				"difficulty": 0,
 				"bosstag": "Uberspider",
@@ -32,7 +32,7 @@
 				"killcreature": false,
 				"tamecreature": false,
 				"spawncreaturenearby": false,
-				"creatureclass": "/Game/PrimalEarth/Dinos/Spider-Large/SpiderL_Character_BP_Medium.SpiderL_Character_BP_Medium",
+				"creatureclass": "/Game/PrimalEarth/Dinos/Spider-Large/SpiderL_Character_BP_Medium.SpiderL_Character_BP_Medium_C",
 				"giveloot": false,
 				"difficulty": 1,
 				"bosstag": "Uberspider",
@@ -56,7 +56,7 @@
 				"killcreature": false,
 				"tamecreature": false,
 				"spawncreaturenearby": false,
-				"creatureclass": "/Game/PrimalEarth/Dinos/Spider-Large/SpiderL_Character_BP_Hard.SpiderL_Character_BP_Hard",
+				"creatureclass": "/Game/PrimalEarth/Dinos/Spider-Large/SpiderL_Character_BP_Hard.SpiderL_Character_BP_Hard_C",
 				"giveloot": false,
 				"difficulty": 2,
 				"bosstag": "Uberspider",
@@ -78,5 +78,6 @@
 	}
 
 }
+
 
 
