@@ -4,12 +4,12 @@
 		"bossdatalist": [
 			{
 				"clientloaded": false,
-				"spawncreature": true,
-				"killcreature": true,
+				"spawncreature": false,
+				"killcreature": false,
 				"tamecreature": false,
-				"spawncreaturenearby": true,
+				"spawncreaturenearby": false,
 				"creatureclass": "/Game/PrimalEarth/Dinos/Spider-Large/SpiderL_Character_BP_Easy.SpiderL_Character_BP_Easy_C",
-				"giveloot": true,
+				"giveloot": false,
 				"difficulty": 0,
 				"bosstag": "Uberspider",
 				"additionalengrams": [],
@@ -37,7 +37,7 @@
 				"difficulty": 1,
 				"bosstag": "Uberspider",
 				"additionalengrams": [],
-				"itemiconurl": "https://raw.githubusercontent.com/Gsparks4545/BossUnlocker/6e8f0ecea5237a116d90a3ca1e7055e74c5361c9/potion__108_.PNG",
+				"itemiconurl": "https://raw.githubusercontent.com/Gsparks4545/BossUnlocker/6e8f0ecea5237a116d90a3ca1e7055e74c5361c9/potion__104_.PNG",
 				"storedicon": "None",
 				"itemname": "NSLOCTEXT(\"[3FE17CE4FB49A89521B0220F5F795D6C]\", \"1C274336497D41B95E860B8FEBDB037E\", \"Elixir of the Broodmother\\'s Web Fluid\")",
 				"itemdescription": "NSLOCTEXT(\"[3FE17CE4FB49A89521B0220F5F795D6C]\", \"35B58CE846079AB53405A68E57376428\", \"A viscous, silk-white potion that clings to the glass like living strands. Forged from the Broodmother’s own secretions and infused with primal essence, it hums with the pulse of the hive. Those who drink it become momentarily attuned to her web, unlocking the path to her lair and the challenge of ascension.\")",
@@ -73,12 +73,55 @@
 					"a": 204
 				},
 				"itemtext": "NSLOCTEXT(\"[3FE17CE4FB49A89521B0220F5F795D6C]\", \"3CC71B234F2D56828FF6DE8C7EC8FFA8\", \"Alpha\")"
+			},
+			{
+				"clientloaded": false,
+				"spawncreature": true,
+				"killcreature": false,
+				"tamecreature": true,
+				"spawncreaturenearby": true,
+				"creatureclass": "/Game/PrimalEarth/Dinos/Sheep/Sheep_Character_BP.Sheep_Character_BP_C",
+				"giveloot": false,
+				"difficulty": 0,
+				"bosstag": "None",
+				"additionalengrams": [],
+				"itemiconurl": "https://raw.githubusercontent.com/Gsparks4545/BossUnlocker/6e8f0ecea5237a116d90a3ca1e7055e74c5361c9/potion__112_.PNG",
+				"storedicon": "None",
+				"itemname": "NSLOCTEXT(\"[3FE17CE4FB49A89521B0220F5F795D6C]\", \"6DD1B888440CB75FCC45769C0FCC52B3\", \"Spawn a Free Sheep!\")",
+				"itemdescription": "NSLOCTEXT(\"[3FE17CE4FB49A89521B0220F5F795D6C]\", \"57A46C8F41A9F1A98BC4A7B0AB796503\", \"It already Loves you!\")",
+				"itemtextcolor":
+				{
+					"b": 79,
+					"g": 255,
+					"r": 0,
+					"a": 255
+				},
+				"itemtext": "NSLOCTEXT(\"[3FE17CE4FB49A89521B0220F5F795D6C]\", \"3F5DB8354DE3FE861934A9A9891F93CC\", \"Ovis!\")"
+			},
+			{
+				"clientloaded": false,
+				"spawncreature": true,
+				"killcreature": false,
+				"tamecreature": false,
+				"spawncreaturenearby": true,
+				"creatureclass": "/Game/ScorchedEarth/Dinos/Jerboa/Jerboa_Character_BP.Jerboa_Character_BP_C",
+				"giveloot": false,
+				"difficulty": 0,
+				"bosstag": "None",
+				"additionalengrams": [],
+				"itemiconurl": "https://raw.githubusercontent.com/Gsparks4545/BossUnlocker/6e8f0ecea5237a116d90a3ca1e7055e74c5361c9/potion__1014_.PNG",
+				"storedicon": "None",
+				"itemname": "NSLOCTEXT(\"[3FE17CE4FB49A89521B0220F5F795D6C]\", \"FA5234B7469AAA9A107EDB86C9B278DA\", \"Just a lil guy\")",
+				"itemdescription": "NSLOCTEXT(\"[3FE17CE4FB49A89521B0220F5F795D6C]\", \"C99E43424AEC2CE3FCC7E3ABE9A215F9\", \"spawns jerboa\")",
+				"itemtextcolor":
+				{
+					"b": 0,
+					"g": 193,
+					"r": 255,
+					"a": 255
+				},
+				"itemtext": "NSLOCTEXT(\"[3FE17CE4FB49A89521B0220F5F795D6C]\", \"3CEE29FE40DF0112A67884A97E9E57EA\", \"EEEEEEEE\")"
 			}
 		]
 	}
-
 }
-
-
-
-
