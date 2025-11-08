@@ -4,12 +4,12 @@
 		"bossdatalist": [
 			{
 				"clientloaded": false,
-				"spawncreature": false,
-				"killcreature": false,
+				"spawncreature": true,
+				"killcreature": true,
 				"tamecreature": false,
-				"spawncreaturenearby": false,
+				"spawncreaturenearby": true,
 				"creatureclass": "/Game/PrimalEarth/Dinos/Spider-Large/SpiderL_Character_BP_Easy.SpiderL_Character_BP_Easy_C",
-				"giveloot": false,
+				"giveloot": true,
 				"difficulty": 0,
 				"bosstag": "Uberspider",
 				"additionalengrams": [],
@@ -78,6 +78,7 @@
 	}
 
 }
+
 
 
 
