@@ -4,19 +4,20 @@
 		"bossdatalist": [
 			{
 				"clientloaded": false,
-				"spawncreature": false,
-				"killcreature": false,
+				"spawncreature": true,
+				"killcreature": true,
+				"destroycreature": true,
 				"tamecreature": false,
-				"spawncreaturenearby": false,
+				"spawncreaturenearby": true,
 				"creatureclass": "/Game/PrimalEarth/Dinos/Spider-Large/SpiderL_Character_BP_Easy.SpiderL_Character_BP_Easy_C",
-				"giveloot": false,
+				"giveloot": true,
 				"difficulty": 0,
 				"bosstag": "Uberspider",
 				"additionalengrams": [],
 				"itemiconurl": "https://raw.githubusercontent.com/Gsparks4545/BossUnlocker/6e8f0ecea5237a116d90a3ca1e7055e74c5361c9/potion__107_.PNG",
 				"storedicon": "None",
-				"itemname": "NSLOCTEXT(\"[3FE17CE4FB49A89521B0220F5F795D6C]\", \"8C6EBBC54102C4D4B1917DAF7B037E7D\", \"Elixir of the Broodmother\\'s Tears\")",
-				"itemdescription": "NSLOCTEXT(\"[3FE17CE4FB49A89521B0220F5F795D6C]\", \"12E5182C4A2C83997B8D9E99D6C764BB\", \"A vial of shimmering green fluid said to be distilled from the sorrow of the ancient matriarch herself. Its touch burns with venomous energy, awakening the web of power that binds the Ark’s primal core. Drink it to summon the Broodmother and ascend through her trial.\")",
+				"itemname": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"85DA155242894C9A9B4311AE36FA10F6\", \"Lesser Elixir of the Broodmother\\'s Tears\")",
+				"itemdescription": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"0DA2F9334F4EBD656AD6FF809CA66C8E\", \"A vial of shimmering green fluid said to be distilled from the sorrow of the ancient matriarch herself. Its touch burns with venomous energy, awakening the web of power that binds the Ark’s primal core. Drink it to summon the Broodmother and ascend through her trial.\")",
 				"itemtextcolor":
 				{
 					"b": 0,
@@ -24,23 +25,24 @@
 					"r": 0,
 					"a": 204
 				},
-				"itemtext": "NSLOCTEXT(\"[3FE17CE4FB49A89521B0220F5F795D6C]\", \"B194FFF84B9637BFFFD5CD80484D4D62\", \"Gamma\")"
+				"itemtext": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"2218B2A046D4AC9FCEF4D6B87DA97745\", \"Gamma\")"
 			},
 			{
 				"clientloaded": false,
-				"spawncreature": false,
-				"killcreature": false,
+				"spawncreature": true,
+				"killcreature": true,
+				"destroycreature": true,
 				"tamecreature": false,
-				"spawncreaturenearby": false,
+				"spawncreaturenearby": true,
 				"creatureclass": "/Game/PrimalEarth/Dinos/Spider-Large/SpiderL_Character_BP_Medium.SpiderL_Character_BP_Medium_C",
-				"giveloot": false,
+				"giveloot": true,
 				"difficulty": 1,
 				"bosstag": "Uberspider",
 				"additionalengrams": [],
-				"itemiconurl": "https://raw.githubusercontent.com/Gsparks4545/BossUnlocker/6e8f0ecea5237a116d90a3ca1e7055e74c5361c9/potion__176_.PNG",
+				"itemiconurl": "https://raw.githubusercontent.com/Gsparks4545/BossUnlocker/6e8f0ecea5237a116d90a3ca1e7055e74c5361c9/potion__108_.PNG",
 				"storedicon": "None",
-				"itemname": "NSLOCTEXT(\"[3FE17CE4FB49A89521B0220F5F795D6C]\", \"1C274336497D41B95E860B8FEBDB037E\", \"Elixir of the Broodmother\\'s Web Fluid\")",
-				"itemdescription": "NSLOCTEXT(\"[3FE17CE4FB49A89521B0220F5F795D6C]\", \"35B58CE846079AB53405A68E57376428\", \"A viscous, silk-white potion that clings to the glass like living strands. Forged from the Broodmother’s own secretions and infused with primal essence, it hums with the pulse of the hive. Those who drink it become momentarily attuned to her web, unlocking the path to her lair and the challenge of ascension.\")",
+				"itemname": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"22C4D6974EFFDFC2BF96648964823B22\", \"Medium Elixir of the Broodmother\\'s Web Fluid\")",
+				"itemdescription": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"B0F5097C4650781F75598B814ED36991\", \"A viscous, silk-white potion that clings to the glass like living strands. Forged from the Broodmother’s own secretions and infused with primal essence, it hums with the pulse of the hive. Those who drink it become momentarily attuned to her web, unlocking the path to her lair and the challenge of ascension.\")",
 				"itemtextcolor":
 				{
 					"b": 255,
@@ -48,23 +50,24 @@
 					"r": 0,
 					"a": 204
 				},
-				"itemtext": "NSLOCTEXT(\"[3FE17CE4FB49A89521B0220F5F795D6C]\", \"7114FD74430A8BCED90F8AA4D1707810\", \"Beta\")"
+				"itemtext": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"168BDCDF4D9A68BCB60387AEF3000DAA\", \"Beta\")"
 			},
 			{
 				"clientloaded": false,
-				"spawncreature": false,
-				"killcreature": false,
+				"spawncreature": true,
+				"killcreature": true,
+				"destroycreature": true,
 				"tamecreature": false,
-				"spawncreaturenearby": false,
+				"spawncreaturenearby": true,
 				"creatureclass": "/Game/PrimalEarth/Dinos/Spider-Large/SpiderL_Character_BP_Hard.SpiderL_Character_BP_Hard_C",
-				"giveloot": false,
+				"giveloot": true,
 				"difficulty": 2,
 				"bosstag": "Uberspider",
 				"additionalengrams": [],
-				"itemiconurl": "https://raw.githubusercontent.com/Gsparks4545/BossUnlocker/6e8f0ecea5237a116d90a3ca1e7055e74c5361c9/potion__108_.PNG",
+				"itemiconurl": "https://raw.githubusercontent.com/Gsparks4545/BossUnlocker/6e8f0ecea5237a116d90a3ca1e7055e74c5361c9/potion__114_.PNG",
 				"storedicon": "None",
-				"itemname": "NSLOCTEXT(\"[3FE17CE4FB49A89521B0220F5F795D6C]\", \"8BDBA52849B32E920614F5B91AF5E258\", \"Elixir of the Broodmother\\'s Acidic Blood\")",
-				"itemdescription": "NSLOCTEXT(\"[3FE17CE4FB49A89521B0220F5F795D6C]\", \"A9163652473DDEDEF852D6801C02B3CD\", \"A seething emerald liquid that eats through lesser glass and must be contained in reinforced crystal. Its fumes sting the air with venomous potency. Said to contain the lifeblood of the ancient matriarch, this elixir burns away mortal limits, unlocking the gateway to her domain and the trial of ascension.\")",
+				"itemname": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"0BABD7F44DCDE165356FA89F268E8304\", \"Greater Elixir of the Broodmother\\'s Acidic Blood\")",
+				"itemdescription": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"963D42BE41814B50F59379A329F22FFD\", \"A seething emerald liquid that eats through lesser glass and must be contained in reinforced crystal. Its fumes sting the air with venomous potency. Said to contain the lifeblood of the ancient matriarch, this elixir burns away mortal limits, unlocking the gateway to her domain and the trial of ascension.\")",
 				"itemtextcolor":
 				{
 					"b": 0,
@@ -72,57 +75,1058 @@
 					"r": 255,
 					"a": 204
 				},
-				"itemtext": "NSLOCTEXT(\"[3FE17CE4FB49A89521B0220F5F795D6C]\", \"3CC71B234F2D56828FF6DE8C7EC8FFA8\", \"Alpha\")"
+				"itemtext": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"B84362884341ABC700F5EC8E1214871D\", \"Alpha\")"
 			},
 			{
 				"clientloaded": false,
 				"spawncreature": true,
-				"killcreature": false,
-				"tamecreature": true,
-				"spawncreaturenearby": true,
-				"creatureclass": "/Game/PrimalEarth/Dinos/Sheep/Sheep_Character_BP.Sheep_Character_BP_C",
-				"giveloot": false,
-				"difficulty": 0,
-				"bosstag": "None",
-				"additionalengrams": [],
-				"itemiconurl": "https://raw.githubusercontent.com/Gsparks4545/BossUnlocker/6e8f0ecea5237a116d90a3ca1e7055e74c5361c9/potion__112_.PNG",
-				"storedicon": "None",
-				"itemname": "NSLOCTEXT(\"[3FE17CE4FB49A89521B0220F5F795D6C]\", \"6DD1B888440CB75FCC45769C0FCC52B3\", \"Spawn a Free Sheep!\")",
-				"itemdescription": "NSLOCTEXT(\"[3FE17CE4FB49A89521B0220F5F795D6C]\", \"57A46C8F41A9F1A98BC4A7B0AB796503\", \"It already Loves you!\")",
-				"itemtextcolor":
-				{
-					"b": 79,
-					"g": 255,
-					"r": 0,
-					"a": 255
-				},
-				"itemtext": "NSLOCTEXT(\"[3FE17CE4FB49A89521B0220F5F795D6C]\", \"3F5DB8354DE3FE861934A9A9891F93CC\", \"Ovis!\")"
-			},
-			{
-				"clientloaded": false,
-				"spawncreature": true,
-				"killcreature": false,
+				"killcreature": true,
+				"destroycreature": true,
 				"tamecreature": false,
 				"spawncreaturenearby": true,
-				"creatureclass": "/Game/ScorchedEarth/Dinos/Jerboa/Jerboa_Character_BP.Jerboa_Character_BP_C",
-				"giveloot": false,
+				"creatureclass": "/Game/PrimalEarth/Dinos/Gorilla/Gorilla_Character_BP_Easy.Gorilla_Character_BP_Easy_C",
+				"giveloot": true,
 				"difficulty": 0,
-				"bosstag": "None",
+				"bosstag": "Megapithecus",
 				"additionalengrams": [],
-				"itemiconurl": "https://raw.githubusercontent.com/Gsparks4545/BossUnlocker/6e8f0ecea5237a116d90a3ca1e7055e74c5361c9/potion__114_.PNG",
+				"itemiconurl": "https://raw.githubusercontent.com/Gsparks4545/BossUnlocker/6e8f0ecea5237a116d90a3ca1e7055e74c5361c9/potion__116_.PNG",
 				"storedicon": "None",
-				"itemname": "NSLOCTEXT(\"[3FE17CE4FB49A89521B0220F5F795D6C]\", \"FA5234B7469AAA9A107EDB86C9B278DA\", \"Just a lil guy\")",
-				"itemdescription": "NSLOCTEXT(\"[3FE17CE4FB49A89521B0220F5F795D6C]\", \"C99E43424AEC2CE3FCC7E3ABE9A215F9\", \"spawns jerboa\")",
+				"itemname": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"215447BB4EA3D275B7D2EEB35AE0BCDE\", \"Lesser Primal Simian Brew\")",
+				"itemdescription": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"B00433974901A532101014B763403977\", \"A frothy jungle-green brew brewed from the wild strength of the ape king.\")",
 				"itemtextcolor":
 				{
 					"b": 0,
-					"g": 193,
-					"r": 255,
-					"a": 255
+					"g": 255,
+					"r": 0,
+					"a": 204
 				},
-				"itemtext": "NSLOCTEXT(\"[3FE17CE4FB49A89521B0220F5F795D6C]\", \"3CEE29FE40DF0112A67884A97E9E57EA\", \"EEEEEEEE\")"
+				"itemtext": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"310FF3744FD6524F15C164BD0A4EB70A\", \"Gamma\")"
+			},
+			{
+				"clientloaded": false,
+				"spawncreature": true,
+				"killcreature": true,
+				"destroycreature": true,
+				"tamecreature": false,
+				"spawncreaturenearby": true,
+				"creatureclass": "/Game/PrimalEarth/Dinos/Gorilla/Gorilla_Character_BP_Medium.Gorilla_Character_BP_Medium_C",
+				"giveloot": true,
+				"difficulty": 1,
+				"bosstag": "Megapithecus",
+				"additionalengrams": [],
+				"itemiconurl": "https://raw.githubusercontent.com/Gsparks4545/BossUnlocker/6e8f0ecea5237a116d90a3ca1e7055e74c5361c9/potion__118_.PNG",
+				"storedicon": "None",
+				"itemname": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"EE994C704004CA51D541159F89D0C9E3\", \"Medium Primal Simian Brew\")",
+				"itemdescription": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"32E3D73D401B4BC6ABD50EA005CCDA47\", \"A deep green potion distilled from bones and roots of the giant gorilla’s domain.\")",
+				"itemtextcolor":
+				{
+					"b": 255,
+					"g": 0,
+					"r": 0,
+					"a": 204
+				},
+				"itemtext": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"866493214D91EEF2EC5F88933B817116\", \"Beta\")"
+			},
+			{
+				"clientloaded": false,
+				"spawncreature": true,
+				"killcreature": true,
+				"destroycreature": true,
+				"tamecreature": false,
+				"spawncreaturenearby": true,
+				"creatureclass": "/Game/PrimalEarth/Dinos/Gorilla/Gorilla_Character_BP_Hard.Gorilla_Character_BP_Hard_C",
+				"giveloot": true,
+				"difficulty": 2,
+				"bosstag": "Megapithecus",
+				"additionalengrams": [],
+				"itemiconurl": "https://raw.githubusercontent.com/Gsparks4545/BossUnlocker/6e8f0ecea5237a116d90a3ca1e7055e74c5361c9/potion__119_.PNG",
+				"storedicon": "None",
+				"itemname": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"33CC5DF041B55D2EC6320CA905A31521\", \"Greater Primal Simian Brew\")",
+				"itemdescription": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"795629E344C0BC080EAAF89964AE5763\", \"A thick bronze liquid steeped in the echoing roars of a cavernous ape throne.\")",
+				"itemtextcolor":
+				{
+					"b": 0,
+					"g": 0,
+					"r": 255,
+					"a": 204
+				},
+				"itemtext": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"F02DDEDB4D2FBC1F1A30FB923247273D\", \"Alpha\")"
+			},
+			{
+				"clientloaded": false,
+				"spawncreature": true,
+				"killcreature": true,
+				"destroycreature": true,
+				"tamecreature": false,
+				"spawncreaturenearby": true,
+				"creatureclass": "/Game/PrimalEarth/Dinos/Dragon/Dragon_Character_BP_Boss_Easy.Dragon_Character_BP_Boss_Easy_C",
+				"giveloot": true,
+				"difficulty": 0,
+				"bosstag": "Dragon",
+				"additionalengrams": [],
+				"itemiconurl": "https://raw.githubusercontent.com/Gsparks4545/BossUnlocker/6e8f0ecea5237a116d90a3ca1e7055e74c5361c9/potion__173_.PNG",
+				"storedicon": "None",
+				"itemname": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"D961269C4E27C420167076A3C86C36B0\", \"Lesser Draconic Elixir\")",
+				"itemdescription": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"A578F2624C3BEF1F8F6ABEB9B4188E9C\", \"A vial of molten gold-red fluid, swirled with the breath of a young dragon.\")",
+				"itemtextcolor":
+				{
+					"b": 0,
+					"g": 255,
+					"r": 0,
+					"a": 204
+				},
+				"itemtext": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"DDA9C84040B90D5E51BE4B89A59CFD05\", \"Gamma\")"
+			},
+			{
+				"clientloaded": false,
+				"spawncreature": true,
+				"killcreature": true,
+				"destroycreature": true,
+				"tamecreature": false,
+				"spawncreaturenearby": true,
+				"creatureclass": "/Game/PrimalEarth/Dinos/Dragon/Dragon_Character_BP_Boss_Medium.Dragon_Character_BP_Boss_Medium_C",
+				"giveloot": true,
+				"difficulty": 1,
+				"bosstag": "Dragon",
+				"additionalengrams": [],
+				"itemiconurl": "https://raw.githubusercontent.com/Gsparks4545/BossUnlocker/6e8f0ecea5237a116d90a3ca1e7055e74c5361c9/potion__174_.PNG",
+				"storedicon": "None",
+				"itemname": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"75D100204CA5E32847839691366CC663\", \"Medium Draconic Elixir\")",
+				"itemdescription": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"C0D97F8D43ED4F10ADA16A95F9120474\", \"A smoldering amber liquid sealed in dragon-scale glass, warmed by ancient flame.\")",
+				"itemtextcolor":
+				{
+					"b": 255,
+					"g": 0,
+					"r": 0,
+					"a": 204
+				},
+				"itemtext": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"0D7F8DE64E75C0CB22753E9B26EAFBE9\", \"Beta\")"
+			},
+			{
+				"clientloaded": false,
+				"spawncreature": true,
+				"killcreature": true,
+				"destroycreature": true,
+				"tamecreature": false,
+				"spawncreaturenearby": true,
+				"creatureclass": "/Game/PrimalEarth/Dinos/Dragon/Dragon_Character_BP_Boss_Hard.Dragon_Character_BP_Boss_Hard_C",
+				"giveloot": true,
+				"difficulty": 2,
+				"bosstag": "Dragon",
+				"additionalengrams": [],
+				"itemiconurl": "https://raw.githubusercontent.com/Gsparks4545/BossUnlocker/6e8f0ecea5237a116d90a3ca1e7055e74c5361c9/potion__175_.PNG",
+				"storedicon": "None",
+				"itemname": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"71535C5344F04A115EA9DC9F6B1BA01C\", \"Greater Draconic Elixir\")",
+				"itemdescription": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"5F94C5694FED1F2E1552C7B1BB67F5AF\", \"A deep crimson-amber potion pulsing with the heart-fire of a true wyrm.\")",
+				"itemtextcolor":
+				{
+					"b": 0,
+					"g": 0,
+					"r": 255,
+					"a": 204
+				},
+				"itemtext": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"259F3D4C44B7C8B034524F8CA1CC07F7\", \"Alpha\")"
+			},
+			{
+				"clientloaded": false,
+				"spawncreature": true,
+				"killcreature": true,
+				"destroycreature": true,
+				"tamecreature": false,
+				"spawncreaturenearby": true,
+				"creatureclass": "/Game/EndGame/Dinos/Endboss/EndBoss_Character_Easy.EndBoss_Character_Easy_C",
+				"giveloot": true,
+				"difficulty": 0,
+				"bosstag": "Guardian",
+				"additionalengrams": [],
+				"itemiconurl": "https://raw.githubusercontent.com/Gsparks4545/BossUnlocker/6e8f0ecea5237a116d90a3ca1e7055e74c5361c9/potion__176_.PNG",
+				"storedicon": "None",
+				"itemname": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"CD7695FD45E74659DD3C70812573CA8A\", \"Lesser Overseer’s Spark Flask\")",
+				"itemdescription": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"2CD879EB438E4CF59259FF93FEC0FA3E\", \"A small crystalline flask crackling with white-blue mechanical energy.\")",
+				"itemtextcolor":
+				{
+					"b": 0,
+					"g": 255,
+					"r": 0,
+					"a": 204
+				},
+				"itemtext": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"E03C08E64AAF281B0FBE85BEA3A9B6D4\", \"Gamma\")"
+			},
+			{
+				"clientloaded": false,
+				"spawncreature": true,
+				"killcreature": true,
+				"destroycreature": true,
+				"tamecreature": false,
+				"spawncreaturenearby": true,
+				"creatureclass": "/Game/EndGame/Dinos/Endboss/EndBoss_Character_Medium.EndBoss_Character_Medium_C",
+				"giveloot": true,
+				"difficulty": 1,
+				"bosstag": "Guardian",
+				"additionalengrams": [],
+				"itemiconurl": "https://raw.githubusercontent.com/Gsparks4545/BossUnlocker/6e8f0ecea5237a116d90a3ca1e7055e74c5361c9/potion__177_.PNG",
+				"storedicon": "None",
+				"itemname": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"717F9D7E4FB91665C2C3A9A9325F681C\", \"Medium Overseer’s Spark Flask\")",
+				"itemdescription": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"44E09B304779B104C536B1BAC30AB833\", \"An iridescent blue vial infused with rewired servo-cores from the Overseer.\")",
+				"itemtextcolor":
+				{
+					"b": 255,
+					"g": 0,
+					"r": 0,
+					"a": 204
+				},
+				"itemtext": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"9326AE334ACF5B8B5FE09B8D533B1D72\", \"Beta\")"
+			},
+			{
+				"clientloaded": false,
+				"spawncreature": true,
+				"killcreature": true,
+				"destroycreature": true,
+				"tamecreature": false,
+				"spawncreaturenearby": true,
+				"creatureclass": "/Game/EndGame/Dinos/Endboss/EndBoss_Character_Hard.EndBoss_Character_Hard_C",
+				"giveloot": true,
+				"difficulty": 2,
+				"bosstag": "Guardian",
+				"additionalengrams": [],
+				"itemiconurl": "https://raw.githubusercontent.com/Gsparks4545/BossUnlocker/6e8f0ecea5237a116d90a3ca1e7055e74c5361c9/potion__178_.PNG",
+				"storedicon": "None",
+				"itemname": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"AB29D31F4E0F65AE6C3DB4B7F27445CD\", \"Greater Overseer’s Spark Flask\")",
+				"itemdescription": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"DB26C0D547EF791F4E9CD7878AADE82E\", \"A reactor-charged flask glowing with the central core of the Overseer’s design.\")",
+				"itemtextcolor":
+				{
+					"b": 0,
+					"g": 0,
+					"r": 255,
+					"a": 204
+				},
+				"itemtext": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"0F099CB74381596F5C5A4D81245AA353\", \"Alpha\")"
+			},
+			{
+				"clientloaded": false,
+				"spawncreature": true,
+				"killcreature": true,
+				"destroycreature": true,
+				"tamecreature": false,
+				"spawncreaturenearby": true,
+				"creatureclass": "/Game/ScorchedEarth/Dinos/Manticore/Manticore_Character_BP_Easy.Manticore_Character_BP_Easy_C",
+				"giveloot": true,
+				"difficulty": 0,
+				"bosstag": "Manticore",
+				"additionalengrams": [],
+				"itemiconurl": "https://raw.githubusercontent.com/Gsparks4545/BossUnlocker/6e8f0ecea5237a116d90a3ca1e7055e74c5361c9/potion__179_.PNG",
+				"storedicon": "None",
+				"itemname": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"2D325F3D4C9BC94BD5C8078F569B71E5\", \"Lesser Scorpion-Lion Tonic\")",
+				"itemdescription": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"98D69CE2404AD91F41FA4F91CEEB0E32\", \"A sand-amber vial infused with barbs from a desert manticore’s tail.\")",
+				"itemtextcolor":
+				{
+					"b": 0,
+					"g": 255,
+					"r": 0,
+					"a": 204
+				},
+				"itemtext": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"872462194010A8B29EBFD393A78EC7F3\", \"Gamma\")"
+			},
+			{
+				"clientloaded": false,
+				"spawncreature": true,
+				"killcreature": true,
+				"destroycreature": true,
+				"tamecreature": false,
+				"spawncreaturenearby": true,
+				"creatureclass": "/Game/ScorchedEarth/Dinos/Manticore/Manticore_Character_BP_Medium.Manticore_Character_BP_Medium_C",
+				"giveloot": true,
+				"difficulty": 1,
+				"bosstag": "Manticore",
+				"additionalengrams": [],
+				"itemiconurl": "https://raw.githubusercontent.com/Gsparks4545/BossUnlocker/6e8f0ecea5237a116d90a3ca1e7055e74c5361c9/potion__180_.PNG",
+				"storedicon": "None",
+				"itemname": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"57FBF1974761F37B96133D9ACA291644\", \"Medium Scorpion-Lion Tonic\")",
+				"itemdescription": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"C6920C87445C4354250C76B83F9FD5A4\", \"A desert-honey tinted elixir drawn from the venom and claws of the manticore.\")",
+				"itemtextcolor":
+				{
+					"b": 255,
+					"g": 0,
+					"r": 0,
+					"a": 204
+				},
+				"itemtext": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"306CECEC48A42C504E9C5D8FDBD1EF7F\", \"Beta\")"
+			},
+			{
+				"clientloaded": false,
+				"spawncreature": true,
+				"killcreature": true,
+				"destroycreature": true,
+				"tamecreature": false,
+				"spawncreaturenearby": true,
+				"creatureclass": "/Game/ScorchedEarth/Dinos/Manticore/Manticore_Character_BP_Hard.Manticore_Character_BP_Hard_C",
+				"giveloot": true,
+				"difficulty": 2,
+				"bosstag": "Manticore",
+				"additionalengrams": [],
+				"itemiconurl": "https://raw.githubusercontent.com/Gsparks4545/BossUnlocker/6e8f0ecea5237a116d90a3ca1e7055e74c5361c9/potion__181_.PNG",
+				"storedicon": "None",
+				"itemname": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"57FBF1974761F37B96133D9ACA291644\", \"Medium Scorpion-Lion Tonic\")",
+				"itemdescription": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"52EA20B64E6C696F73F21CA09FF726AB\", \"A venom-scarlet flask containing the distilled essence of the desert predator’s deadliest strike.\")",
+				"itemtextcolor":
+				{
+					"b": 0,
+					"g": 0,
+					"r": 255,
+					"a": 204
+				},
+				"itemtext": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"C1EB6C784F6ADBC183833DA3F4096C32\", \"Alpha\")"
+			},
+			{
+				"clientloaded": false,
+				"spawncreature": true,
+				"killcreature": true,
+				"destroycreature": true,
+				"tamecreature": false,
+				"spawncreaturenearby": true,
+				"creatureclass": "/Game/Aberration/Boss/Rockwell/Rockwell_Character_BP_Easy.Rockwell_Character_BP_Easy_C",
+				"giveloot": true,
+				"difficulty": 0,
+				"bosstag": "Rockwell",
+				"additionalengrams": [],
+				"itemiconurl": "https://raw.githubusercontent.com/Gsparks4545/BossUnlocker/6e8f0ecea5237a116d90a3ca1e7055e74c5361c9/potion__182_.PNG",
+				"storedicon": "None",
+				"itemname": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"1D47918C436B3A35D8C16A97F58EAAD7\", \"Lesser Elemental Corruptor’s Draught\")",
+				"itemdescription": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"DA4FE5E44C2D3A60C8C7E8A5995891C0\", \"A cloudy violet serum harvested from the initial experiments of the corrupted alchemist.\")",
+				"itemtextcolor":
+				{
+					"b": 72,
+					"g": 255,
+					"r": 0,
+					"a": 204
+				},
+				"itemtext": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"6C7F018341D832065EAF6795815C954C\", \"Gamma\")"
+			},
+			{
+				"clientloaded": false,
+				"spawncreature": true,
+				"killcreature": true,
+				"destroycreature": true,
+				"tamecreature": false,
+				"spawncreaturenearby": true,
+				"creatureclass": "/Game/Aberration/Boss/Rockwell/Rockwell_Character_BP_Medium.Rockwell_Character_BP_Medium_C",
+				"giveloot": true,
+				"difficulty": 1,
+				"bosstag": "Rockwell",
+				"additionalengrams": [],
+				"itemiconurl": "https://raw.githubusercontent.com/Gsparks4545/BossUnlocker/6e8f0ecea5237a116d90a3ca1e7055e74c5361c9/potion__182_.PNG",
+				"storedicon": "None",
+				"itemname": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"D925D8234F4640C1312C80B4D4F7334D\", \"Medium Elemental Corruptor’s Draught\")",
+				"itemdescription": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"0E27E3D34990D40D15AFF28827F33392\", \"A deep violet potion collected from the twisted core of the corrupted form.\")",
+				"itemtextcolor":
+				{
+					"b": 255,
+					"g": 0,
+					"r": 16,
+					"a": 204
+				},
+				"itemtext": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"5C1F5D4048CE4C823C3CE6A5C76E00E7\", \"Beta\")"
+			},
+			{
+				"clientloaded": false,
+				"spawncreature": true,
+				"killcreature": true,
+				"destroycreature": true,
+				"tamecreature": false,
+				"spawncreaturenearby": true,
+				"creatureclass": "/Game/Aberration/Boss/Rockwell/Rockwell_Character_BP_Hard.Rockwell_Character_BP_Hard_C",
+				"giveloot": true,
+				"difficulty": 2,
+				"bosstag": "Rockwell",
+				"additionalengrams": [],
+				"itemiconurl": "https://raw.githubusercontent.com/Gsparks4545/BossUnlocker/6e8f0ecea5237a116d90a3ca1e7055e74c5361c9/potion__183_.PNG",
+				"storedicon": "None",
+				"itemname": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"78306C584FA4477B555FDBB056A4397F\", \"Greater Elemental Corruptor’s Draught\")",
+				"itemdescription": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"890564FA473F6977A10FD3A247BD035F\", \"An inky violet elixir drawn from the final, unstable ritual vessel of the corrupted master.\")",
+				"itemtextcolor":
+				{
+					"b": 24,
+					"g": 0,
+					"r": 255,
+					"a": 204
+				},
+				"itemtext": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"5B07932449C52040188419A0C1A5C36D\", \"Alpha\")"
+			},
+			{
+				"clientloaded": false,
+				"spawncreature": true,
+				"killcreature": true,
+				"destroycreature": true,
+				"tamecreature": false,
+				"spawncreaturenearby": true,
+				"creatureclass": "/Game/Extinction/Dinos/KingKaiju/KingKaiju_Character_BP_WorldBoss.KingKaiju_Character_BP_WorldBoss_C",
+				"giveloot": true,
+				"difficulty": 0,
+				"bosstag": "King Titan",
+				"additionalengrams": [],
+				"itemiconurl": "https://raw.githubusercontent.com/Gsparks4545/BossUnlocker/6e8f0ecea5237a116d90a3ca1e7055e74c5361c9/potion__184_.PNG",
+				"storedicon": "None",
+				"itemname": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"3C312CF04F6CF3713A3AC3988CF2586F\", \"Lesser Titan’s Endurance Elixir\")",
+				"itemdescription": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"FFBFCFDC40D063387B1D389625E3C4D0\", \"A massive flask of molten metal fluid, infused with shattered titan-bone fragments.\")",
+				"itemtextcolor":
+				{
+					"b": 61,
+					"g": 255,
+					"r": 0,
+					"a": 204
+				},
+				"itemtext": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"0A155260485F7A92682355A385098736\", \"Gamma\")"
+			},
+			{
+				"clientloaded": false,
+				"spawncreature": true,
+				"killcreature": true,
+				"destroycreature": true,
+				"tamecreature": false,
+				"spawncreaturenearby": true,
+				"creatureclass": "/Game/Extinction/Dinos/KingKaiju/KingKaiju_Character_BP_Beta.KingKaiju_Character_BP_Beta_C",
+				"giveloot": true,
+				"difficulty": 1,
+				"bosstag": "King Titan",
+				"additionalengrams": [],
+				"itemiconurl": "https://raw.githubusercontent.com/Gsparks4545/BossUnlocker/6e8f0ecea5237a116d90a3ca1e7055e74c5361c9/potion__185_.PNG",
+				"storedicon": "None",
+				"itemname": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"41636AD945077B69462A6591FB6BD1A7\", \"Medium Titan’s Endurance Elixir\")",
+				"itemdescription": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"BD836C2449702C4F20AD4A94DCF949BD\", \"An amber-obsidian elixir forged from the shattered core of the Titan’s fall.\")",
+				"itemtextcolor":
+				{
+					"b": 255,
+					"g": 0,
+					"r": 47,
+					"a": 204
+				},
+				"itemtext": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"47BF55324C7EE1C6C8D5569242C1F668\", \"Beta\")"
+			},
+			{
+				"clientloaded": false,
+				"spawncreature": true,
+				"killcreature": true,
+				"destroycreature": true,
+				"tamecreature": false,
+				"spawncreaturenearby": true,
+				"creatureclass": "/Game/Extinction/Dinos/KingKaiju/KingKaiju_Character_BP_Alpha.KingKaiju_Character_BP_Alpha_C",
+				"giveloot": true,
+				"difficulty": 2,
+				"bosstag": "King Titan",
+				"additionalengrams": [],
+				"itemiconurl": "https://raw.githubusercontent.com/Gsparks4545/BossUnlocker/6e8f0ecea5237a116d90a3ca1e7055e74c5361c9/potion__186_.PNG",
+				"storedicon": "None",
+				"itemname": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"7FF0CF0349B10CC6A2AE8EB0E8A9C574\", \"Greater Titan’s Endurance Elixir\")",
+				"itemdescription": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"71F85C5A484ECC7021E653B27E876E55\", \"A storm-black draught pulsing with colossus power, forged amid the Titan’s cataclysm.\")",
+				"itemtextcolor":
+				{
+					"b": 38,
+					"g": 0,
+					"r": 255,
+					"a": 204
+				},
+				"itemtext": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"F8950E4E47E5104AFFAB18890A06C7C4\", \"Alpha\")"
+			},
+			{
+				"clientloaded": false,
+				"spawncreature": false,
+				"killcreature": false,
+				"destroycreature": false,
+				"tamecreature": false,
+				"spawncreaturenearby": false,
+				"creatureclass": "None",
+				"giveloot": false,
+				"difficulty": 0,
+				"bosstag": "VRMainBoss",
+				"additionalengrams": [],
+				"itemiconurl": "https://raw.githubusercontent.com/Gsparks4545/BossUnlocker/6e8f0ecea5237a116d90a3ca1e7055e74c5361c9/potion__187_.PNG",
+				"storedicon": "None",
+				"itemname": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"8EC33BC54A382BF9EC4EB593EE22AA8C\", \"Lesser Virtual Distortion Serum\")",
+				"itemdescription": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"C020CFF2499A9FB25F2E48B3CE70FB6F\", \"A shimmering neon-green vial of simulated reality flux gleaned from the VR shell.\")",
+				"itemtextcolor":
+				{
+					"b": 75,
+					"g": 255,
+					"r": 0,
+					"a": 204
+				},
+				"itemtext": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"BFE805104BE442416E0A36A3F01A2C3F\", \"Gamma\")"
+			},
+			{
+				"clientloaded": false,
+				"spawncreature": false,
+				"killcreature": false,
+				"destroycreature": false,
+				"tamecreature": false,
+				"spawncreaturenearby": false,
+				"creatureclass": "None",
+				"giveloot": false,
+				"difficulty": 1,
+				"bosstag": "VRMainBoss",
+				"additionalengrams": [],
+				"itemiconurl": "https://raw.githubusercontent.com/Gsparks4545/BossUnlocker/6e8f0ecea5237a116d90a3ca1e7055e74c5361c9/potion__188_.PNG",
+				"storedicon": "None",
+				"itemname": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"3253CC544A8DAD55FDC97980283B2645\", \"Medium Virtual Distortion Serum\")",
+				"itemdescription": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"85462D444CD28359F7C4E491E4895523\", \"An emerald-green serum synthesized from corrupted virtual protocols and code shards.\")",
+				"itemtextcolor":
+				{
+					"b": 255,
+					"g": 0,
+					"r": 14,
+					"a": 204
+				},
+				"itemtext": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"427A35614521A6349AF1FAB2CF48CC4B\", \"Beta\")"
+			},
+			{
+				"clientloaded": false,
+				"spawncreature": false,
+				"killcreature": false,
+				"destroycreature": false,
+				"tamecreature": false,
+				"spawncreaturenearby": false,
+				"creatureclass": "None",
+				"giveloot": false,
+				"difficulty": 2,
+				"bosstag": "VRMainBoss",
+				"additionalengrams": [],
+				"itemiconurl": "https://raw.githubusercontent.com/Gsparks4545/BossUnlocker/6e8f0ecea5237a116d90a3ca1e7055e74c5361c9/potion__189_.PNG",
+				"storedicon": "None",
+				"itemname": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"B1BEF7594FEBBAE03434AE8393DBD29E\", \"Greater Virtual Distortion Serum\")",
+				"itemdescription": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"F83382C34B1F9F63C752D9A5EFAB8ADC\", \"A glowing emerald flask containing the final corrupted protocol of the virtual entity.\")",
+				"itemtextcolor":
+				{
+					"b": 41,
+					"g": 0,
+					"r": 255,
+					"a": 204
+				},
+				"itemtext": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"8C8483C542129CC014EE3A88FD449AE8\", \"Alpha\")"
+			},
+			{
+				"clientloaded": false,
+				"spawncreature": false,
+				"killcreature": false,
+				"destroycreature": false,
+				"tamecreature": false,
+				"spawncreaturenearby": false,
+				"creatureclass": "None",
+				"giveloot": false,
+				"difficulty": 0,
+				"bosstag": "Gen2Rockwell",
+				"additionalengrams": [],
+				"itemiconurl": "https://raw.githubusercontent.com/Gsparks4545/BossUnlocker/6e8f0ecea5237a116d90a3ca1e7055e74c5361c9/potion__190_.PNG",
+				"storedicon": "None",
+				"itemname": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"A9195C274CE52CC94DB11C8DE988CC3B\", \"Lesser Severe Corruption Purge Tonic\")",
+				"itemdescription": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"4F63822F4FBFCB9B57E11794C3B4E714\", \"A deep black-violet tonic throbbing with raw elemental corruption drawn from a hulking mass.\")",
+				"itemtextcolor":
+				{
+					"b": 0,
+					"g": 255,
+					"r": 44,
+					"a": 204
+				},
+				"itemtext": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"66DD3DF54704164E6493AD9FBE17B5D5\", \"Gamma\")"
+			},
+			{
+				"clientloaded": false,
+				"spawncreature": false,
+				"killcreature": false,
+				"destroycreature": false,
+				"tamecreature": false,
+				"spawncreaturenearby": false,
+				"creatureclass": "None",
+				"giveloot": false,
+				"difficulty": 1,
+				"bosstag": "Gen2Rockwell",
+				"additionalengrams": [],
+				"itemiconurl": "https://raw.githubusercontent.com/Gsparks4545/BossUnlocker/6e8f0ecea5237a116d90a3ca1e7055e74c5361c9/potion__191_.PNG",
+				"storedicon": "None",
+				"itemname": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"BC248F204206334D90AC81BA031D651F\", \"Medium Severe Corruption Purge Tonic\")",
+				"itemdescription": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"4F63822F4FBFCB9B57E11794C3B4E714\", \"A deep black-violet tonic throbbing with raw elemental corruption drawn from a hulking mass.\")",
+				"itemtextcolor":
+				{
+					"b": 255,
+					"g": 3,
+					"r": 0,
+					"a": 204
+				},
+				"itemtext": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"66DD3DF54704164E6493AD9FBE17B5D5\", \"Gamma\")"
+			},
+			{
+				"clientloaded": false,
+				"spawncreature": false,
+				"killcreature": false,
+				"destroycreature": false,
+				"tamecreature": false,
+				"spawncreaturenearby": false,
+				"creatureclass": "None",
+				"giveloot": false,
+				"difficulty": 2,
+				"bosstag": "Gen2Rockwell",
+				"additionalengrams": [],
+				"itemiconurl": "https://raw.githubusercontent.com/Gsparks4545/BossUnlocker/6e8f0ecea5237a116d90a3ca1e7055e74c5361c9/potion__192_.PNG",
+				"storedicon": "None",
+				"itemname": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"E40C8EF24625F58084CB33B1D2AB3FD5\", \"Greater Severe Corruption Purge Tonic\")",
+				"itemdescription": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"4F63822F4FBFCB9B57E11794C3B4E714\", \"A deep black-violet tonic throbbing with raw elemental corruption drawn from a hulking mass.\")",
+				"itemtextcolor":
+				{
+					"b": 255,
+					"g": 3,
+					"r": 0,
+					"a": 204
+				},
+				"itemtext": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"D6B7FBD04C3A9EF60F36A59CF2291B51\", \"Alpha\")"
+			},
+			{
+				"clientloaded": false,
+				"spawncreature": true,
+				"killcreature": true,
+				"destroycreature": true,
+				"tamecreature": false,
+				"spawncreaturenearby": true,
+				"creatureclass": "None",
+				"giveloot": true,
+				"difficulty": 0,
+				"bosstag": "None",
+				"additionalengrams": [],
+				"itemiconurl": "https://raw.githubusercontent.com/Gsparks4545/BossUnlocker/6e8f0ecea5237a116d90a3ca1e7055e74c5361c9/potion__193_.PNG",
+				"storedicon": "None",
+				"itemname": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"B8534684481E8BAFA9F1E3A163A9E206\", \"Lesser Monocular Titan Elixir\")",
+				"itemdescription": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"9C44BA5F47A80623AC8B8CB991DA0811\", \"A thick eye-blue potion steeped with the essence of the Cyclops’ orb.\")",
+				"itemtextcolor":
+				{
+					"b": 77,
+					"g": 255,
+					"r": 0,
+					"a": 204
+				},
+				"itemtext": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"5F7B88C146A42E624A175CA307054670\", \"Gamma\")"
+			},
+			{
+				"clientloaded": false,
+				"spawncreature": true,
+				"killcreature": true,
+				"destroycreature": true,
+				"tamecreature": false,
+				"spawncreaturenearby": true,
+				"creatureclass": "None",
+				"giveloot": true,
+				"difficulty": 0,
+				"bosstag": "None",
+				"additionalengrams": [],
+				"itemiconurl": "https://raw.githubusercontent.com/Gsparks4545/BossUnlocker/6e8f0ecea5237a116d90a3ca1e7055e74c5361c9/potion__194_.PNG",
+				"storedicon": "None",
+				"itemname": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"54D9D78343B179AFCACBEAAE5154A9F8\", \"Medium Monocular Titan Elixir\")",
+				"itemdescription": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"20A1662A4E4205DCFF9A35AB184C7A85\", \"An azure elixir crafted from the matured Cyclops’ central eye-core.\")",
+				"itemtextcolor":
+				{
+					"b": 255,
+					"g": 81,
+					"r": 0,
+					"a": 204
+				},
+				"itemtext": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"A865B3B2472DF1218E0B58AAC6EB414A\", \"Beta\")"
+			},
+			{
+				"clientloaded": false,
+				"spawncreature": true,
+				"killcreature": true,
+				"destroycreature": true,
+				"tamecreature": false,
+				"spawncreaturenearby": true,
+				"creatureclass": "None",
+				"giveloot": true,
+				"difficulty": 0,
+				"bosstag": "None",
+				"additionalengrams": [],
+				"itemiconurl": "https://raw.githubusercontent.com/Gsparks4545/BossUnlocker/6e8f0ecea5237a116d90a3ca1e7055e74c5361c9/potion__195_.PNG",
+				"storedicon": "None",
+				"itemname": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"627B09CD49003A0571943EBA56B0AD85\", \"Greater Monocular Titan Elixir\")",
+				"itemdescription": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"AAA150514207F050812B588138FB79CD\", \"An electric-blue flask distilled from the fallen Cyclops’ heart-orb in its final struggle.\")",
+				"itemtextcolor":
+				{
+					"b": 97,
+					"g": 0,
+					"r": 255,
+					"a": 204
+				},
+				"itemtext": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"8F9992BC4CFD9F53EBF491BA586B2107\", \"Alpha\")"
+			},
+			{
+				"clientloaded": false,
+				"spawncreature": true,
+				"killcreature": true,
+				"destroycreature": true,
+				"tamecreature": false,
+				"spawncreaturenearby": true,
+				"creatureclass": "None",
+				"giveloot": true,
+				"difficulty": 0,
+				"bosstag": "None",
+				"additionalengrams": [],
+				"itemiconurl": "https://raw.githubusercontent.com/Gsparks4545/BossUnlocker/6e8f0ecea5237a116d90a3ca1e7055e74c5361c9/potion__196_.PNG",
+				"storedicon": "None",
+				"itemname": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"03EE9DE649FC28D6953078948220CDE3\", \"Lesser Petrifier’s Brew\")",
+				"itemdescription": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"E03988E74CB8B8B0D9A093B3CAF72A6E\", \"A pale green elixir laced with dust from Medusa’s lair and the whisper of a deadly gaze.\")",
+				"itemtextcolor":
+				{
+					"b": 35,
+					"g": 255,
+					"r": 0,
+					"a": 204
+				},
+				"itemtext": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"EC02641F4C779CBE23C3DFB9A3922D8D\", \"Gamma\")"
+			},
+			{
+				"clientloaded": false,
+				"spawncreature": true,
+				"killcreature": true,
+				"destroycreature": true,
+				"tamecreature": false,
+				"spawncreaturenearby": true,
+				"creatureclass": "None",
+				"giveloot": true,
+				"difficulty": 0,
+				"bosstag": "None",
+				"additionalengrams": [],
+				"itemiconurl": "https://raw.githubusercontent.com/Gsparks4545/BossUnlocker/6e8f0ecea5237a116d90a3ca1e7055e74c5361c9/potion__197_.PNG",
+				"storedicon": "None",
+				"itemname": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"88D48ABD40B08B78233ED3BA636FAA20\", \"Medium Petrifier’s Brew\")",
+				"itemdescription": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"75FF75624403501FAB8A51BF510C9A18\", \"An emerald vial drawn from the venomous eye of the Gorgon-queen herself.\")",
+				"itemtextcolor":
+				{
+					"b": 255,
+					"g": 101,
+					"r": 0,
+					"a": 204
+				},
+				"itemtext": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"A865AD2B4E317EF023A427938C3FDBD0\", \"Beta\")"
+			},
+			{
+				"clientloaded": false,
+				"spawncreature": true,
+				"killcreature": true,
+				"destroycreature": true,
+				"tamecreature": false,
+				"spawncreaturenearby": true,
+				"creatureclass": "None",
+				"giveloot": true,
+				"difficulty": 0,
+				"bosstag": "None",
+				"additionalengrams": [],
+				"itemiconurl": "https://raw.githubusercontent.com/Gsparks4545/BossUnlocker/6e8f0ecea5237a116d90a3ca1e7055e74c5361c9/potion__198_.PNG",
+				"storedicon": "None",
+				"itemname": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"44EAA344432198892D8E13B2AA5CF2A5\", \"Greater Petrifier’s Brew\")",
+				"itemdescription": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"75FF75624403501FAB8A51BF510C9A18\", \"An emerald vial drawn from the venomous eye of the Gorgon-queen herself.\")",
+				"itemtextcolor":
+				{
+					"b": 70,
+					"g": 0,
+					"r": 255,
+					"a": 204
+				},
+				"itemtext": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"A26199F14ED2C1E0000EAEB48FC5C343\", \"Alpha\")"
+			},
+			{
+				"clientloaded": false,
+				"spawncreature": true,
+				"killcreature": true,
+				"destroycreature": true,
+				"tamecreature": false,
+				"spawncreaturenearby": true,
+				"creatureclass": "/Game/ASA/Dinos/IceWyvern/Boss/RagWyvBoss_Character_BP_Easy.RagWyvBoss_Character_BP_Easy_C",
+				"giveloot": true,
+				"difficulty": 0,
+				"bosstag": "None",
+				"additionalengrams": [],
+				"itemiconurl": "https://raw.githubusercontent.com/Gsparks4545/BossUnlocker/6e8f0ecea5237a116d90a3ca1e7055e74c5361c9/potion__199_.PNG",
+				"storedicon": "None",
+				"itemname": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"A9309E5F47BAFDC79CAE08A286C707DD\", \"Lesser Frost-Wyvern Elixir\")",
+				"itemdescription": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"9779869B434F52AC638133939D9988B5\", \"A frosty pale-blue vial bearing a shard of ice-wing from the wyvern’s flight.\")",
+				"itemtextcolor":
+				{
+					"b": 0,
+					"g": 255,
+					"r": 48,
+					"a": 204
+				},
+				"itemtext": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"32E42C234DA3D56B74F69C8994CBB19C\", \"Gamma\")"
+			},
+			{
+				"clientloaded": false,
+				"spawncreature": true,
+				"killcreature": true,
+				"destroycreature": true,
+				"tamecreature": false,
+				"spawncreaturenearby": true,
+				"creatureclass": "/Game/ASA/Dinos/IceWyvern/Boss/RagWyvBoss_Character_BP_Medium.RagWyvBoss_Character_BP_Medium_C",
+				"giveloot": true,
+				"difficulty": 0,
+				"bosstag": "None",
+				"additionalengrams": [],
+				"itemiconurl": "https://raw.githubusercontent.com/Gsparks4545/BossUnlocker/6e8f0ecea5237a116d90a3ca1e7055e74c5361c9/potion__200_.PNG",
+				"storedicon": "None",
+				"itemname": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"A6D915034EA6CBAC643DE580A0CF03A3\", \"Medium Frost-Wyvern Elixir\")",
+				"itemdescription": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"3899AEA4417F193E494D289D75F78F7C\", \"An ice-blue liquid distilled from the arctic breath of the ancient wyvern.\")",
+				"itemtextcolor":
+				{
+					"b": 255,
+					"g": 22,
+					"r": 0,
+					"a": 204
+				},
+				"itemtext": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"958F3A2945CC51714A8613B0C8D56D55\", \"Beta\")"
+			},
+			{
+				"clientloaded": false,
+				"spawncreature": true,
+				"killcreature": true,
+				"destroycreature": true,
+				"tamecreature": false,
+				"spawncreaturenearby": true,
+				"creatureclass": "/Game/ASA/Dinos/IceWyvern/Boss/RagWyvBoss_Character_BP_Hard.RagWyvBoss_Character_BP_Hard_C",
+				"giveloot": true,
+				"difficulty": 0,
+				"bosstag": "None",
+				"additionalengrams": [],
+				"itemiconurl": "https://raw.githubusercontent.com/Gsparks4545/BossUnlocker/6e8f0ecea5237a116d90a3ca1e7055e74c5361c9/potion__201_.PNG",
+				"storedicon": "None",
+				"itemname": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"78AA3A2A4507551D7FCCE59F7C4D7536\", \"Greater Frost-Wyvern Elixir\")",
+				"itemdescription": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"62925075470C0ECA75691188536EEB6F\", \"A glacial-white elixir forged from the core-breath of the legend-ice wyrm.\")",
+				"itemtextcolor":
+				{
+					"b": 0,
+					"g": 62,
+					"r": 255,
+					"a": 204
+				},
+				"itemtext": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"EF1CADFF4A84191AB6BF40AD90332D30\", \"Alpha\")"
+			},
+			{
+				"clientloaded": false,
+				"spawncreature": true,
+				"killcreature": true,
+				"destroycreature": true,
+				"tamecreature": false,
+				"spawncreaturenearby": true,
+				"creatureclass": "/Game/ASA/Dinos/Megaraptor/Boss/ValMegaraptor_Character_BP_Boss_Easy.ValMegaraptor_Character_BP_Boss_Easy_C",
+				"giveloot": true,
+				"difficulty": 0,
+				"bosstag": "None",
+				"additionalengrams": [],
+				"itemiconurl": "https://raw.githubusercontent.com/Gsparks4545/BossUnlocker/6e8f0ecea5237a116d90a3ca1e7055e74c5361c9/potion__17_.PNG",
+				"storedicon": "None",
+				"itemname": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"9FB3D05249C67C38E62CBF85F9B4DA77\", \"Lesser Raptor Prime Elixir\")",
+				"itemdescription": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"2B00ABF340C71984EF5246AA73D627DF\", \"A jagged cobalt vial bearing the imprint of Grendel’s talon, the scent of primal hunt rising from its rim.\")",
+				"itemtextcolor":
+				{
+					"b": 0,
+					"g": 255,
+					"r": 52,
+					"a": 204
+				},
+				"itemtext": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"61BC7CAE43D5B67BD1AC0880F82CA6BA\", \"Gamma\")"
+			},
+			{
+				"clientloaded": false,
+				"spawncreature": true,
+				"killcreature": true,
+				"destroycreature": true,
+				"tamecreature": false,
+				"spawncreaturenearby": true,
+				"creatureclass": "/Game/ASA/Dinos/Megaraptor/Boss/ValMegaraptor_Character_BP_Boss_Medium.ValMegaraptor_Character_BP_Boss_Medium_C",
+				"giveloot": true,
+				"difficulty": 0,
+				"bosstag": "None",
+				"additionalengrams": [],
+				"itemiconurl": "https://raw.githubusercontent.com/Gsparks4545/BossUnlocker/6e8f0ecea5237a116d90a3ca1e7055e74c5361c9/potion__19_.PNG",
+				"storedicon": "None",
+				"itemname": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"72E2DC484FDCA2E41FCDBC8F4D76832E\", \"Medium Raptor Prime Elixir\")",
+				"itemdescription": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"36DC69C74066E61C00EF59941A2D2555\", \"An obsidian-blue flask etched with bone-rune markings, its liquid shimmering with the predator’s ancient rampage.\")",
+				"itemtextcolor":
+				{
+					"b": 255,
+					"g": 70,
+					"r": 0,
+					"a": 204
+				},
+				"itemtext": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"A5D652B44F408DFF7A4923AF3FE9D8DF\", \"Beta\")"
+			},
+			{
+				"clientloaded": false,
+				"spawncreature": true,
+				"killcreature": true,
+				"destroycreature": true,
+				"tamecreature": false,
+				"spawncreaturenearby": true,
+				"creatureclass": "/Game/ASA/Dinos/Megaraptor/Boss/ValMegaraptor_Character_BP_Boss_Hard.ValMegaraptor_Character_BP_Boss_Hard_C",
+				"giveloot": true,
+				"difficulty": 0,
+				"bosstag": "None",
+				"additionalengrams": [],
+				"itemiconurl": "https://raw.githubusercontent.com/Gsparks4545/BossUnlocker/6e8f0ecea5237a116d90a3ca1e7055e74c5361c9/potion__1_.PNG",
+				"storedicon": "None",
+				"itemname": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"9CDBFAB74F8054E0A9EF9299E1865870\", \"Greater Raptor Prime Elixir\")",
+				"itemdescription": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"99C418C5458F7E8506F5419AC1A0EFCB\", \"A thunder-steel amphora wrapped in fossil-iron bands, filled with the storm-dark essence of Grendel’s final roar.\")",
+				"itemtextcolor":
+				{
+					"b": 64,
+					"g": 0,
+					"r": 255,
+					"a": 204
+				},
+				"itemtext": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"663875FB4BAEEABECB087DBCCEDFB565\", \"Alpha\")"
+			},
+			{
+				"clientloaded": false,
+				"spawncreature": true,
+				"killcreature": true,
+				"destroycreature": true,
+				"tamecreature": false,
+				"spawncreaturenearby": true,
+				"creatureclass": "/Game/ASA/Dinos/Iceworm/Iceworm_Queen_Character_BP.Iceworm_Queen_Character_BP_C",
+				"giveloot": true,
+				"difficulty": 0,
+				"bosstag": "None",
+				"additionalengrams": [],
+				"itemiconurl": "https://raw.githubusercontent.com/Gsparks4545/BossUnlocker/6e8f0ecea5237a116d90a3ca1e7055e74c5361c9/potion__202_.PNG",
+				"storedicon": "None",
+				"itemname": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"663940A947FBA436B49B04B1F3090583\", \"Ice Queen’s Elixir\")",
+				"itemdescription": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"4D91075048D95CD65B945B910D98374C\", \"A ruby-red potion brewed from the venomous fang of the Iceworm queen.\")",
+				"itemtextcolor":
+				{
+					"b": 0,
+					"g": 221,
+					"r": 255,
+					"a": 204
+				},
+				"itemtext": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"7FB35B1147E8BFADE84ED7B9A75DFA7F\", \"Miniboss\")"
+			},
+			{
+				"clientloaded": false,
+				"spawncreature": true,
+				"killcreature": true,
+				"destroycreature": true,
+				"tamecreature": false,
+				"spawncreaturenearby": true,
+				"creatureclass": "/Game/ASA/Dinos/LavaGolem/LavaGolem_Character_BP.LavaGolem_Character_BP_C",
+				"giveloot": true,
+				"difficulty": 0,
+				"bosstag": "None",
+				"additionalengrams": [],
+				"itemiconurl": "https://raw.githubusercontent.com/Gsparks4545/BossUnlocker/6e8f0ecea5237a116d90a3ca1e7055e74c5361c9/potion__203_.PNG",
+				"storedicon": "None",
+				"itemname": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"86173FBE48F610BCB8A84093B8C3B057\", \"Magma-Golem Heartblood Elixir\")",
+				"itemdescription": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"EF1E260D4639345BB65CD18EAF750BEE\", \"A crimson-orange elixir pulsing with molten heat drawn from the element’s heart.\")",
+				"itemtextcolor":
+				{
+					"b": 0,
+					"g": 221,
+					"r": 255,
+					"a": 204
+				},
+				"itemtext": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"7FB35B1147E8BFADE84ED7B9A75DFA7F\", \"Miniboss\")"
+			},
+			{
+				"clientloaded": false,
+				"spawncreature": true,
+				"killcreature": true,
+				"destroycreature": false,
+				"tamecreature": false,
+				"spawncreaturenearby": true,
+				"creatureclass": "/Game/PrimalEarth/Dinos/Rex/MegaRex_Character_BP.MegaRex_Character_BP_C",
+				"giveloot": true,
+				"difficulty": 0,
+				"bosstag": "None",
+				"additionalengrams": [],
+				"itemiconurl": "https://raw.githubusercontent.com/Gsparks4545/BossUnlocker/6e8f0ecea5237a116d90a3ca1e7055e74c5361c9/potion__204_.PNG",
+				"storedicon": "None",
+				"itemname": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"FB4FA7224D4518478F9048BBC2832265\", \"Alpha Rex Dominance Draught\")",
+				"itemdescription": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"EAF2032C4F87979E66D9298CE9355AB2\", \"A dark green-black tonic infused with the prime essence of the alpha apex predator.\")",
+				"itemtextcolor":
+				{
+					"b": 254,
+					"g": 0,
+					"r": 255,
+					"a": 204
+				},
+				"itemtext": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"5F74120B4BC9DA6CCC9A888A2E4574EF\", \"Apex\")"
+			},
+			{
+				"clientloaded": false,
+				"spawncreature": true,
+				"killcreature": true,
+				"destroycreature": false,
+				"tamecreature": false,
+				"spawncreaturenearby": true,
+				"creatureclass": "/Game/PrimalEarth/Dinos/Carno/MegaCarno_Character_BP.MegaCarno_Character_BP_C",
+				"giveloot": true,
+				"difficulty": 0,
+				"bosstag": "None",
+				"additionalengrams": [],
+				"itemiconurl": "https://raw.githubusercontent.com/Gsparks4545/BossUnlocker/6e8f0ecea5237a116d90a3ca1e7055e74c5361c9/potion__204_.PNG",
+				"storedicon": "None",
+				"itemname": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"E9EA25F9424F78A9628A99A4AC9C48AB\", \"Alpha Carno Predator Elixir\")",
+				"itemdescription": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"B56AB4B04963932E7CD377BC1E833949\", \"A dusky red potion drawn from the kills of the alpha carno lord of the pack.\")",
+				"itemtextcolor":
+				{
+					"b": 254,
+					"g": 0,
+					"r": 255,
+					"a": 204
+				},
+				"itemtext": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"5F74120B4BC9DA6CCC9A888A2E4574EF\", \"Apex\")"
+			},
+			{
+				"clientloaded": false,
+				"spawncreature": true,
+				"killcreature": true,
+				"destroycreature": false,
+				"tamecreature": false,
+				"spawncreaturenearby": true,
+				"creatureclass": "/Game/PrimalEarth/Dinos/Raptor/MegaRaptor_Character_BP.MegaRaptor_Character_BP_C",
+				"giveloot": true,
+				"difficulty": 0,
+				"bosstag": "None",
+				"additionalengrams": [],
+				"itemiconurl": "https://raw.githubusercontent.com/Gsparks4545/BossUnlocker/6e8f0ecea5237a116d90a3ca1e7055e74c5361c9/potion__205_.PNG",
+				"storedicon": "None",
+				"itemname": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"F0C7ACF84B6A8EF75BFE3387DA5FC022\", \"Alpha Raptor Keen-Claw Brew\")",
+				"itemdescription": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"AD1F795B4FD475801FC5C4A4E668B03C\", \"A sleek violet-blue brew made from the razor claws of the alpha hunting raptor.\")",
+				"itemtextcolor":
+				{
+					"b": 254,
+					"g": 0,
+					"r": 255,
+					"a": 204
+				},
+				"itemtext": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"5F74120B4BC9DA6CCC9A888A2E4574EF\", \"Apex\")"
+			},
+			{
+				"clientloaded": false,
+				"spawncreature": true,
+				"killcreature": true,
+				"destroycreature": false,
+				"tamecreature": false,
+				"spawncreaturenearby": true,
+				"creatureclass": "/Game/ScorchedEarth/Dinos/Wyvern/MegaWyvern_Character_BP_Fire.MegaWyvern_Character_BP_Fire_C",
+				"giveloot": true,
+				"difficulty": 0,
+				"bosstag": "None",
+				"additionalengrams": [],
+				"itemiconurl": "https://raw.githubusercontent.com/Gsparks4545/BossUnlocker/6e8f0ecea5237a116d90a3ca1e7055e74c5361c9/potion__206_.PNG",
+				"storedicon": "None",
+				"itemname": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"74290CE743B4C464C8B99BB4A8445D6E\", \"Alpha Wyvern Sky-Fury Elixir\")",
+				"itemdescription": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"262874D64C6979815792899ADA096A99\", \"A storm-silver potion swirling with the gust-wing power of the alpha wyvern.\")",
+				"itemtextcolor":
+				{
+					"b": 254,
+					"g": 0,
+					"r": 255,
+					"a": 204
+				},
+				"itemtext": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"5F74120B4BC9DA6CCC9A888A2E4574EF\", \"Apex\")"
 			}
 		]
 	}
 }
-
