@@ -684,7 +684,7 @@
 				"destroycreature": true,
 				"tamecreature": false,
 				"spawncreaturenearby": true,
-				"creatureclass": "None",
+				"creatureclass": "/Astraeos/Assets/CoreBlueprints/Creatures/Cyclops/Boss_Cyclops_Character_BP_Easy.Boss_Cyclops_Character_BP_Easy_C",
 				"giveloot": true,
 				"difficulty": 0,
 				"bosstag": "None",
@@ -709,7 +709,7 @@
 				"destroycreature": true,
 				"tamecreature": false,
 				"spawncreaturenearby": true,
-				"creatureclass": "None",
+				"creatureclass": "/Astraeos/Assets/CoreBlueprints/Creatures/Cyclops/Boss_Cyclops_Character_BP_Medium.Boss_Cyclops_Character_BP_Medium_C",
 				"giveloot": true,
 				"difficulty": 0,
 				"bosstag": "None",
@@ -734,7 +734,7 @@
 				"destroycreature": true,
 				"tamecreature": false,
 				"spawncreaturenearby": true,
-				"creatureclass": "None",
+				"creatureclass": "/Astraeos/Assets/CoreBlueprints/Creatures/Cyclops/Boss_Cyclops_Character_BP_Hard.Boss_Cyclops_Character_BP_Hard_C",
 				"giveloot": true,
 				"difficulty": 0,
 				"bosstag": "None",
@@ -759,7 +759,7 @@
 				"destroycreature": true,
 				"tamecreature": false,
 				"spawncreaturenearby": true,
-				"creatureclass": "None",
+				"creatureclass": "/Astraeos/Assets/CoreBlueprints/Creatures/Gorgon/Boss_Gorgon_Character_BP_Gamma.Boss_Gorgon_Character_BP_Gamma_C",
 				"giveloot": true,
 				"difficulty": 0,
 				"bosstag": "None",
@@ -784,7 +784,7 @@
 				"destroycreature": true,
 				"tamecreature": false,
 				"spawncreaturenearby": true,
-				"creatureclass": "None",
+				"creatureclass": "/Astraeos/Assets/CoreBlueprints/Creatures/Gorgon/Boss_Gorgon_Character_BP_Beta.Boss_Gorgon_Character_BP_Beta_C",
 				"giveloot": true,
 				"difficulty": 0,
 				"bosstag": "None",
@@ -809,7 +809,7 @@
 				"destroycreature": true,
 				"tamecreature": false,
 				"spawncreaturenearby": true,
-				"creatureclass": "None",
+				"creatureclass": "/Astraeos/Assets/CoreBlueprints/Creatures/Gorgon/Boss_Gorgon_Character_BP_Alpha.Boss_Gorgon_Character_BP_Alpha_C",
 				"giveloot": true,
 				"difficulty": 0,
 				"bosstag": "None",
@@ -1130,3 +1130,4 @@
 		]
 	}
 }
+
