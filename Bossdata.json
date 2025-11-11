@@ -692,7 +692,7 @@
 				"itemiconurl": "https://raw.githubusercontent.com/Gsparks4545/BossUnlocker/6e8f0ecea5237a116d90a3ca1e7055e74c5361c9/potion__193_.PNG",
 				"storedicon": "None",
 				"itemname": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"B8534684481E8BAFA9F1E3A163A9E206\", \"Lesser Monocular Titan Elixir\")",
-				"itemdescription": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"9C44BA5F47A80623AC8B8CB991DA0811\", \"A thick eye-blue potion steeped with the essence of the Cyclops’ orb.\")",
+				"itemdescription": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"9C44BA5F47A80623AC8B8CB991DA0811\", \"THIS REQUIRES YOU TO BE ON ASTRAEOS\n\nthick eye-blue potion steeped with the essence of the Cyclops’ orb.\")",
 				"itemtextcolor":
 				{
 					"b": 77,
@@ -717,7 +717,7 @@
 				"itemiconurl": "https://raw.githubusercontent.com/Gsparks4545/BossUnlocker/6e8f0ecea5237a116d90a3ca1e7055e74c5361c9/potion__194_.PNG",
 				"storedicon": "None",
 				"itemname": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"54D9D78343B179AFCACBEAAE5154A9F8\", \"Medium Monocular Titan Elixir\")",
-				"itemdescription": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"20A1662A4E4205DCFF9A35AB184C7A85\", \"An azure elixir crafted from the matured Cyclops’ central eye-core.\")",
+				"itemdescription": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"20A1662A4E4205DCFF9A35AB184C7A85\", \"THIS REQUIRES YOU TO BE ON ASTRAEOS\n\nAn azure elixir crafted from the matured Cyclops’ central eye-core.\")",
 				"itemtextcolor":
 				{
 					"b": 255,
@@ -742,7 +742,7 @@
 				"itemiconurl": "https://raw.githubusercontent.com/Gsparks4545/BossUnlocker/6e8f0ecea5237a116d90a3ca1e7055e74c5361c9/potion__195_.PNG",
 				"storedicon": "None",
 				"itemname": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"627B09CD49003A0571943EBA56B0AD85\", \"Greater Monocular Titan Elixir\")",
-				"itemdescription": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"AAA150514207F050812B588138FB79CD\", \"An electric-blue flask distilled from the fallen Cyclops’ heart-orb in its final struggle.\")",
+				"itemdescription": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"AAA150514207F050812B588138FB79CD\", \"THIS REQUIRES YOU TO BE ON ASTRAEOS\n\nAn electric-blue flask distilled from the fallen Cyclops’ heart-orb in its final struggle.\")",
 				"itemtextcolor":
 				{
 					"b": 97,
@@ -767,7 +767,7 @@
 				"itemiconurl": "https://raw.githubusercontent.com/Gsparks4545/BossUnlocker/6e8f0ecea5237a116d90a3ca1e7055e74c5361c9/potion__196_.PNG",
 				"storedicon": "None",
 				"itemname": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"03EE9DE649FC28D6953078948220CDE3\", \"Lesser Petrifier’s Brew\")",
-				"itemdescription": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"E03988E74CB8B8B0D9A093B3CAF72A6E\", \"A pale green elixir laced with dust from Medusa’s lair and the whisper of a deadly gaze.\")",
+				"itemdescription": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"E03988E74CB8B8B0D9A093B3CAF72A6E\", \"THIS REQUIRES YOU TO BE ON ASTRAEOS\n\nA pale green elixir laced with dust from Medusa’s lair and the whisper of a deadly gaze.\")",
 				"itemtextcolor":
 				{
 					"b": 35,
@@ -792,7 +792,7 @@
 				"itemiconurl": "https://raw.githubusercontent.com/Gsparks4545/BossUnlocker/6e8f0ecea5237a116d90a3ca1e7055e74c5361c9/potion__197_.PNG",
 				"storedicon": "None",
 				"itemname": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"88D48ABD40B08B78233ED3BA636FAA20\", \"Medium Petrifier’s Brew\")",
-				"itemdescription": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"75FF75624403501FAB8A51BF510C9A18\", \"An emerald vial drawn from the venomous eye of the Gorgon-queen herself.\")",
+				"itemdescription": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"75FF75624403501FAB8A51BF510C9A18\", \"THIS REQUIRES YOU TO BE ON ASTRAEOS\n\nAn emerald vial drawn from the venomous eye of the Gorgon-queen herself.\")",
 				"itemtextcolor":
 				{
 					"b": 255,
@@ -817,7 +817,7 @@
 				"itemiconurl": "https://raw.githubusercontent.com/Gsparks4545/BossUnlocker/6e8f0ecea5237a116d90a3ca1e7055e74c5361c9/potion__198_.PNG",
 				"storedicon": "None",
 				"itemname": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"44EAA344432198892D8E13B2AA5CF2A5\", \"Greater Petrifier’s Brew\")",
-				"itemdescription": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"75FF75624403501FAB8A51BF510C9A18\", \"An emerald vial drawn from the venomous eye of the Gorgon-queen herself.\")",
+				"itemdescription": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"75FF75624403501FAB8A51BF510C9A18\", \"THIS REQUIRES YOU TO BE ON ASTRAEOS\n\nAn emerald vial drawn from the venomous eye of the Gorgon-queen herself.\")",
 				"itemtextcolor":
 				{
 					"b": 70,
@@ -992,7 +992,7 @@
 				"itemiconurl": "https://raw.githubusercontent.com/Gsparks4545/BossUnlocker/6e8f0ecea5237a116d90a3ca1e7055e74c5361c9/potion__202_.PNG",
 				"storedicon": "None",
 				"itemname": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"663940A947FBA436B49B04B1F3090583\", \"Ice Queen’s Elixir\")",
-				"itemdescription": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"4D91075048D95CD65B945B910D98374C\", \"A ruby-red potion brewed from the venomous fang of the Iceworm queen.\")",
+				"itemdescription": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"4D91075048D95CD65B945B910D98374C\", \"THIS MAY REQUIRE YOU TO BE ON RAGNAROK\n\nA ruby-red potion brewed from the venomous fang of the Iceworm queen.\")",
 				"itemtextcolor":
 				{
 					"b": 0,
@@ -1017,7 +1017,7 @@
 				"itemiconurl": "https://raw.githubusercontent.com/Gsparks4545/BossUnlocker/6e8f0ecea5237a116d90a3ca1e7055e74c5361c9/potion__203_.PNG",
 				"storedicon": "None",
 				"itemname": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"86173FBE48F610BCB8A84093B8C3B057\", \"Magma-Golem Heartblood Elixir\")",
-				"itemdescription": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"EF1E260D4639345BB65CD18EAF750BEE\", \"A crimson-orange elixir pulsing with molten heat drawn from the element’s heart.\")",
+				"itemdescription": "NSLOCTEXT(\"[54BF3A7E469E551AED4655399E00A669]\", \"EF1E260D4639345BB65CD18EAF750BEE\", \"THIS MAY REQUIRE YOU TO BE ON RAGNAROK\n\nA crimson-orange elixir pulsing with molten heat drawn from the element’s heart.\")",
 				"itemtextcolor":
 				{
 					"b": 0,
@@ -1130,4 +1130,5 @@
 		]
 	}
 }
+
 
